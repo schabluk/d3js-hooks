@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Container {
+  background-color: #ccc;
+  height: 200px;
+}
+
+.Svg {
+  background-color: #eee;
+}
